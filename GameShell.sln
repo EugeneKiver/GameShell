@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellServer", "ShellServer\ShellServer.csproj", "{0B6EE859-1E48-46DB-9B9D-213AE3049406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellClient", "ShellClient\ShellClient.csproj", "{6845E41D-FCA2-4CDA-9F06-AEEC2D86ED12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellAuth", "ShellAuth\ShellAuth.csproj", "{17D71250-0C00-42CE-B2E4-F5315351AB7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6EE859-1E48-46DB-9B9D-213AE3049406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6EE859-1E48-46DB-9B9D-213AE3049406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6EE859-1E48-46DB-9B9D-213AE3049406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6EE859-1E48-46DB-9B9D-213AE3049406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6845E41D-FCA2-4CDA-9F06-AEEC2D86ED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6845E41D-FCA2-4CDA-9F06-AEEC2D86ED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6845E41D-FCA2-4CDA-9F06-AEEC2D86ED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6845E41D-FCA2-4CDA-9F06-AEEC2D86ED12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D71250-0C00-42CE-B2E4-F5315351AB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D71250-0C00-42CE-B2E4-F5315351AB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D71250-0C00-42CE-B2E4-F5315351AB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D71250-0C00-42CE-B2E4-F5315351AB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
